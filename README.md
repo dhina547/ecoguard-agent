@@ -101,7 +101,7 @@ EcoGuard follows a **sequential multi-agent pipeline**, where each agent perform
   - Avoid overhead irrigation
 
 ### 📓 Kaggle Notebook Demo
-🔗 *Paste Kaggle Notebook link here*
+🔗 *(https://www.kaggle.com/code/dhinagar547/ecoguard-agent-sustainable-agriculture-final)*
 
 ---
 
