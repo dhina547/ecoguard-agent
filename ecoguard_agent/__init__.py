@@ -1,0 +1,1 @@
+"""EcoGuard Agent package."""
