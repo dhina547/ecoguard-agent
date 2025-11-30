@@ -119,6 +119,6 @@ EcoGuard follows a **sequential multi-agent pipeline**, where each agent perform
 ## 🛠 Installation & Setup
 
 ```bash
-git clone https://github.com/<your-username>/ecoguard-agent.git
+git clone https://github.com/<dhina547>/ecoguard-agent.git
 cd ecoguard-agent
 pip install -r requirements.txt
